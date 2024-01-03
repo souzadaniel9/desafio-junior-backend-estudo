@@ -1,3 +1,6 @@
+# Utilizado com finalidade de estudo
+<br></br>
+
 # Desafio sistema de gerenciamento de tarefas (To-Do List)
 Repositório para ser usado pelos candidatos à vaga de Desenvolvedor Júnior Backend Liferay da Simplify
 
